@@ -14,19 +14,6 @@
 
 
 ---
-
-### 起動方法
-
-`slam_robot_lab.html` をブラウザ（Chrome / Edge / Safari / Firefox）で開くだけです。インストールは要りません。インターネットに接続していなくても動きます（その場合、フォントだけが標準フォントになります）。
-
-GitHub Pages を有効にすると、URL を共有するだけで学生がスマートフォンやタブレットからも使えます（Settings → Pages → Branch に `main` / `/ (root)` を指定）。
-
-```
-https://<ユーザー名>.github.io/<リポジトリ名>/
-```
-
-`slam_robot_lab.html` を編集したときは、`index.html` にも同じ内容をコピーしてください。
-
 ### 遊び方
 
 1. **手動で地図を作る**
